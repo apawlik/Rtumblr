@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.2.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2026-03-19T10:37Z
+last_built: 2026-03-19T11:05Z
 urls:
   reference: https://schochastics.github.io/Rtumblr/reference
   article: https://schochastics.github.io/Rtumblr/articles
