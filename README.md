@@ -1,3 +1,5 @@
+[![Runs on Jupyter4NFDI](https://github.com/apawlik/Rtumblr/actions/workflows/jupyter4nfdi_ready_check.yml/badge.svg)](https://github.com/apawlik/Rtumblr/actions/workflows/jupyter4nfdi_ready_check.yml)
+
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
